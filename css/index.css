@@ -1,0 +1,19 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.722) , rgba(0, 0, 0, 0.728) ) , url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 150px;
+}
+
+nav{
+    border-bottom: solid 4px #098bc1
+}
+
+footer{
+    background-color: #343A40;
+}
